@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Mouhamed Fall, a student ingegner at ESP in the computer engineering department.
+- 👋 Hi, I'm Mouhamed Fall, a student engineer at ESP in the computer engineering department.
 I do backend development with nodejs, php, java (spring boot), django as well 
 and I also do frontend with angular, bootstrap, I do a little AI with python. 
 I also develop desktop applications with java(javaFx) and python.

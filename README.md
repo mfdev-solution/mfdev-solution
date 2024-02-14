@@ -6,7 +6,6 @@ at school I was in software engineering: everything that analysis and design of 
 but also in project management and database.
 
 - 👀 I’m interested in back-end developmentand ML and AI
-- 
 - 🌱 I’m currently learning spring , React.js and augulard
 <!---
 mfdev-solution/mfdev-solution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
